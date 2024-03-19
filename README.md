@@ -24,7 +24,15 @@ Improved performance on sarcasm detection can introduce undesirable biases.
 
 ## Running The Code
 
-Since this code was written in Google Colab, we recommend checking out the Colab files and copying them. Also, please don't forget to swap out the google drive links in the code with your own google drive links!
+Since this code was written in Google Colab, we recommend checking out the Colab files and copying them. Also, please don't forget to swap out the google drive links in the code with your own google drive links.
+
+&nbsp;
+
+----
+
+## Generating The Embeddings
+
+This 
 
 &nbsp;
 
@@ -32,7 +40,7 @@ Since this code was written in Google Colab, we recommend checking out the Colab
 
 ## Cite Our Work
 
-Please cite our work if you find this source code helpful.
+Please cite our work if you find this source code helpful. Thanks!
 
 
 
