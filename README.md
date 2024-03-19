@@ -2,7 +2,7 @@
 
 This repository contains the code for reproducing the results of our paper:
 
-- [When Do "More Contexts" Help with Sarcasm Recognition?](https://arxiv.org/abs/2310.19152)
+- [When Do "More Contexts" Help with Sarcasm Recognition?]()
 - **[Ojas Nimase](mailto:ojasnimase@gmail.com)**, [Sanghyun Hong](https://sanghyun-hong.com).
 
 &nbsp;
