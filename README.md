@@ -16,7 +16,7 @@ Improved performance on sarcasm detection can introduce undesirable biases.
 &nbsp;
 
 ### Abstract
-
+Sarcasm recognition is challenging because it needs an understanding of the true intention, which is opposite to or different from the literal meaning of the words. Prior work has addressed this challenge by developing a series of methods that provide richer contexts, e.g., sentiment or cultural nuances, to models. While shown to be effective individually, no study has systematically evaluated their collective effectiveness. As a result, it remains unclear to what extent additional contexts can improve sarcasm recognition. In this work, we explore the improvements that existing methods bring by incorporating more contexts into a model. To this end, we develop a framework where we can integrate multiple contextual cues and test different approaches. In evaluation with four approaches on three sarcasm recognition benchmarks, we achieve existing state-of-the-art performances and also demonstrate the benefits of sequentially adding more contexts. We also identify inherent drawbacks of using more contexts, highlighting that in the pursuit of even better results, the model may need to adopt societal biases.
 
 &nbsp;
 
