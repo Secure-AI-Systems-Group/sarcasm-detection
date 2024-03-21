@@ -46,7 +46,7 @@ To reproduce the embeddings from our approach that fine-tunes a model using cont
 
 ## Sarcasm Recognition
 
-Now we can refer to this script to run sarcasm recognition on three benchmarking datasets (IAC-V1 IAC-V2 and Tweets): [link](iac_v1,_iac_v2,_and_tweets_a1,_a2,_a3,_a4.py)
+Now we can refer to this script to run sarcasm recognition on three benchmarking datasets (IAC-V1 IAC-V2 and Tweets): [link](Code/iac_v1,_iac_v2,_and_tweets_a1,_a2,_a3,_a4.py)
 
 &nbsp;
 
